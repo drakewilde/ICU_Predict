@@ -1,2 +1,4 @@
 # icupredict
-preprocess_mortality.py creates the icu stay database for hospital mortality.
+![alt text](https://github.com/drakewilde/ICU_Predict/blob/main/poster.jpg?raw=true)
+
+
